@@ -1,0 +1,28 @@
+day;start;end;title
+1;09:00;09:50;"Product Update: Liferay Analytics"
+1;09:50;10:20;Coffe Break
+1;10:20;11:00;"OSGi CDI Integration Specification"
+1;11:00;11:40;"Our Vision for Application Development and Platform Development with Liferay"
+1;11:40;12:30;"Improved Developer Experience for DXP 7.1"
+1;12:30;13:10;"Introducing Liferay DXP Cloud"
+1;13:10;14:40;Lunch Break
+1;14:40;15:10;Coffe Break
+1;15:10;15:50;"User Experience improvements in Liferay 7.2: Lexicon 2 and beyond"
+1;15:50;16:40;"Artificial Intelligence Powered Hyper Personalization with Liferay"
+1;16:40;17:20;"Building solutions on Liferay DXP in a post-GDPR world"
+1;17:20;18:50;"Liferay Commerce, from 0 to production"
+2;09:00;09:40;"The Care and Feeding of a Liferay Portal CE Site"
+2;09:40;10:10;Coffe Break
+2;10:10;10:50;"Interactive visualizing of module dependencies in OSGi based projects"
+2;10:50;11:30;"10 pleasant surprises you will find during the process to upgrade to DXP 7.1"
+2;11:30;12:10;"Liferay DXP Cloud: Best Practices in Action"
+2;12:10;12:50;"All about Search"
+2;12:50;13:30;"Secure Web APIs using JAX-RS and OAuth2"
+2;13:30;15:00;Lunch Break
+2;15:00;15:30;Coffe Break
+2;15:30;16:10;"Extending Liferay Forms to adapt it to your needs"
+2;16:10;16:40;"Meet Modern Site Building: a brand new way to create sites"
+2;16:40;17:10;"The Care and Feeding of a Liferay Portal CE Site"
+2;17:10;17:40;"Liferay Commerce in Action"
+2;17:40;18:20;"Modern Frontend Development in Liferay DXP"
+2;18:20;18:50;"Case study: Modular structures as a key concept for faster Liferay development"
